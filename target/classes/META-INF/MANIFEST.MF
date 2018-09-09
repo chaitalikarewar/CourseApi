@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: learn course api
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Rizwan
+Implementation-Vendor-Id: com.chaitech.riztech
+Build-Jdk: 1.8.0_171
+Implementation-URL: http://projects.spring.io/spring-boot/learncoursea
+ pi/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
